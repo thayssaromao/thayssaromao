@@ -10,6 +10,7 @@ tenho 19 anos e atualmente trabalho meio período como jovem aprendiz e estudo t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0000CD)](https://www.linkedin.com/in/thayssa-rom%C3%A3o-31a94424b/)
 
 
+[![Youtube](https://img.shields.io/badge/youtube-f8f8f2?style=for-the-badge&logo=Youtube&logoColor=FF1493)](https://www.youtube.com/channel/UClQiSpJoE2PMe_pR0WITLzg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=Instagram&logoColor=FF1493)](https://www.instagram.com/thadar.y/)
 
