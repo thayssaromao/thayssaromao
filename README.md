@@ -14,7 +14,7 @@ tenho 19 anos e atualmente trabalho meio período como jovem aprendiz e estudo t
 
 [![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=Instagram&logoColor=FF1493)](https://www.instagram.com/thadar.y/)
 
-[![Github](https://img.shields.io/badge/Github-f8f8f2?style=for-the-badge&logo=Github&logoColor=4F4F4F)](https://github.com/thayssaromao)
+[![Flickr](https://img.shields.io/badge/Flickr-f8f8f2?style=for-the-badge&logo=Flickr&logoColor=4F4F4F)](https://www.flickr.com/people/197358423@N08/)
 
 [![Replit](https://img.shields.io/badge/Replit-f8f8f2?style=for-the-badge&logo=replit&logoColor=#D2691E)](https://replit.com/@THAYSSA-DANIELE)
 
