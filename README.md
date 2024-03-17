@@ -26,10 +26,10 @@ tenho 19 anos e atualmente trabalho meio período como jovem aprendiz e estudo t
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-00008B?style=for-the-badge&logo=PYTHON&logoColor=white) 
 ![NOTION](https://img.shields.io/badge/NOTION-00000B?style=for-the-badge&logo=NOTION&logoColor=white)
-![VSCO](https://img.shields.io/badge/VSCO-808080?style=for-the-badge&logo=VSCO&logoColor=white)
+![LIGHTROOM](https://img.shields.io/badge/adobe%20LIGHTROOM-191970?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=MARKDOWN&logoColor=white)
 ![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white)
-
+![FILMORA](https://img.shields.io/badge/WONDERSHARE%20FILMORA-00BFFF?style=for-the-badge&logo=WONDERSHARE%20FILMORA&logoColor=white)
 
 
 ## 👨‍💻 Status
