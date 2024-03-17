@@ -24,6 +24,7 @@ tenho 19 anos e atualmente trabalho meio período como jovem aprendiz e estudo t
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-00008B?style=for-the-badge&logo=PYTHON&logoColor=white) 
 ![NOTION](https://img.shields.io/badge/NOTION-00000B?style=for-the-badge&logo=NOTION&logoColor=white)
 ![LIGHTROOM](https://img.shields.io/badge/adobe%20LIGHTROOM-191970?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
