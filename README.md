@@ -1,9 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Madimi+One&pause=1000&color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=OIEE,+MEU+NOME+É+DANI++!!;TENHO+19+ANOS;Sou+uma+Maringaense+vivendo+em+Curitiba;BEM+VINDO(A)+AO+MEU+GITHUB++;vsf,+tmj😎🤙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Madimi+One&pause=1000&color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=OIEE,+PODE+ME+CHAMAR+DE+DANI++!!;TENHO+19+ANOS;Sou+Maringaense,+vivendo+em+Curitiba;BEM+VINDO(A)+AO+MEU+GITHUB++;vsf,+tmj😎🤙)](https://git.io/typing-svg)
 -----
 
-Atualmente trabalho meio período como jovem aprendiz e estudo tarde/noite na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no github tem poucas submissões pois costumo usar mais o replit(dá uma olhadinha no meu [perfil](https://replit.com/@THAYSSA-DANIELE)😁), até agora tenho aprendido várias coisas novas e **estou ansiosa para continuar nessa trilha de aprendizado!**
+## Nesse perfil vc vai encontrar:
+- Resumos de aulas;
+- Códigos de algumas matérias como ex. ED;
+- Uns testes de jogos em python;
 
-## 😎 Conecte-se comigo!
+---
+
+Tô cursando SI na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no github tem poucas submissões pois costumo usar mais o replit(dá uma olhadinha no meu [perfil](https://replit.com/@THAYSSA-DANIELE)😁), até agora tenho aprendido várias coisas novas e **estou ansiosa para continuar nessa trilha de aprendizado!** 
+---------
+
+
+
+# 😎 Conecte-se comigo!
 [![DIO](https://img.shields.io/badge/MEU%20%20PERFIL%20DA%20DIO-4B0082?style=for-the-badge&logo=&logoColor=0000CD)](https://www.dio.me/users/romao_34176)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0000CD)](https://www.linkedin.com/in/thayssa-rom%C3%A3o-31a94424b/)
