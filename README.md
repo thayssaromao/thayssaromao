@@ -27,6 +27,8 @@ Tô cursando SI na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no githu
 
 [![Replit](https://img.shields.io/badge/Replit-f8f8f2?style=for-the-badge&logo=replit&logoColor=#D2691E)](https://replit.com/@THAYSSA-DANIELE)
 
+[![Spotify](https://img.shields.io/badge/Spotify-f8f8f2?style=for-the-badge&logo=Spotify&logoColor=#D2691E)](https://open.spotify.com/user/6b4fpv4qed2uvb45wqz9wct31?si=940d561ebe274538)
+
 
 
 ## 🛠 Habilidades
