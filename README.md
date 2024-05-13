@@ -6,7 +6,13 @@
 - Códigos de algumas matérias como ex. ED;
 - Uns testes de jogos em python;
 
----
+### 📚 PÁGINAS DE RESUMOS
+
+- [ED 1](https://lumbar-munchkin-40b.notion.site/Estrutura-de-Dados-I-545e16d807f74798b328ee5f55126a96)
+
+- [PROBABILIDADE E ESTATÍSTICA](https://lumbar-munchkin-40b.notion.site/PROBABILIDADE-E-ESTAT-STICA-f79bb6bf24cc436f98e31ba29670b8fe?pvs=74)
+
+--------
 
 Tô cursando SI na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no github tem poucas submissões pois costumo usar mais o replit(dá uma olhadinha no meu [perfil](https://replit.com/@THAYSSA-DANIELE)😁), até agora tenho aprendido várias coisas novas e **estou ansiosa para continuar nessa trilha de aprendizado!** 
 ---------
@@ -30,7 +36,6 @@ Tô cursando SI na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no githu
 [![Spotify](https://img.shields.io/badge/Spotify-f8f8f2?style=for-the-badge&logo=Spotify&logoColor=#D2691E)](https://open.spotify.com/user/6b4fpv4qed2uvb45wqz9wct31?si=940d561ebe274538)
 
 
-
 ## 🛠 Habilidades
 
 
@@ -46,6 +51,6 @@ Tô cursando SI na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no githu
 
 ## 👨‍💻 Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayssaromao&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thayssaromao&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thayssaromao&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![TOP](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thayssaromao&bg_color=000&bordercolor=30A3DC&title_color=E94D5F&text)
