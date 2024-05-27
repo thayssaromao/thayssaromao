@@ -9,7 +9,7 @@
 ### 📚 PÁGINAS DE RESUMOS
 
 - [ED 1](https://lumbar-munchkin-40b.notion.site/Estrutura-de-Dados-I-545e16d807f74798b328ee5f55126a96)
-
+- [FERRAMENTA R](https://lumbar-munchkin-40b.notion.site/FERRAMENTA-R-1cf4b1270db641f39f69d1ebd5024631?pvs=4)
 - [PROBABILIDADE E ESTATÍSTICA](https://lumbar-munchkin-40b.notion.site/PROBABILIDADE-E-ESTAT-STICA-f79bb6bf24cc436f98e31ba29670b8fe?pvs=74)
 
 --------
@@ -21,18 +21,12 @@ Tô cursando SI na [UTFPR](https://www.utfpr.edu.br/). Meu repositório no githu
 
 # 😎 Conecte-se comigo!
 [![DIO](https://img.shields.io/badge/MEU%20%20PERFIL%20DA%20DIO-4B0082?style=for-the-badge&logo=&logoColor=0000CD)](https://www.dio.me/users/romao_34176)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0000CD)](https://www.linkedin.com/in/thayssa-rom%C3%A3o-31a94424b/)
 
-
 [![Youtube](https://img.shields.io/badge/youtube-f8f8f2?style=for-the-badge&logo=Youtube&logoColor=FF1493)](https://www.youtube.com/channel/UClQiSpJoE2PMe_pR0WITLzg)
-
-[![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=Instagram&logoColor=FF1493)](https://www.instagram.com/thadar.y/)
-
 [![Flickr](https://img.shields.io/badge/Flickr-f8f8f2?style=for-the-badge&logo=Flickr&logoColor=4F4F4F)](https://www.flickr.com/people/197358423@N08/)
 
 [![Replit](https://img.shields.io/badge/Replit-f8f8f2?style=for-the-badge&logo=replit&logoColor=#D2691E)](https://replit.com/@THAYSSA-DANIELE)
-
 [![Spotify](https://img.shields.io/badge/Spotify-f8f8f2?style=for-the-badge&logo=Spotify&logoColor=#D2691E)](https://open.spotify.com/user/6b4fpv4qed2uvb45wqz9wct31?si=940d561ebe274538)
 
 
