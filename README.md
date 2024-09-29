@@ -1,16 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Madimi+One&pause=1000&color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=OIEE,+PODE+ME+CHAMAR+DE+DANI++!!;BEM+VINDO(A)+AO+MEU+GITHUB++;tmj😎🤙)](https://git.io/typing-svg)
 -----
+### 📚 UTFPR NOTION 👇
 
-## Nesse perfil vc vai encontrar:
+| [GUIA DO GUERREIRO DE BSI](https://lumbar-munchkin-40b.notion.site/U-T-F-P-R-3405c3feb5f043388e1faedc209b6cf0?pvs=4)
+
+
+## NESTE PERFIL:
 - Resumos de aulas;
-- Códigos de algumas matérias como ex. ED;
+- Códigos de algumas matérias;
 - Uns testes de jogos em python;
-
-### 📚 PÁGINAS DE RESUMOS
-
-- [ED 1](https://lumbar-munchkin-40b.notion.site/Estrutura-de-Dados-I-545e16d807f74798b328ee5f55126a96)
-- [FERRAMENTA R](https://lumbar-munchkin-40b.notion.site/FERRAMENTA-R-1cf4b1270db641f39f69d1ebd5024631?pvs=4)
-- [PROBABILIDADE E ESTATÍSTICA](https://lumbar-munchkin-40b.notion.site/PROBABILIDADE-E-ESTAT-STICA-f79bb6bf24cc436f98e31ba29670b8fe?pvs=74)
 
 --------
 
