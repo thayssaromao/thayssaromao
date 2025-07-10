@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Madimi+One&pause=1000&color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=OIEE,+PODE+ME+CHAMAR+DE+DANI++!!;BEM+VINDO(A)+AO+MEU+GITHUB++;tmj😎🤙)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Madimi+One&pause=1000&color=CCFF00&size=35&center=true&vCenter=true&width=1000&lines=OIEE,+PODE+ME+CHAMAR+DE+DANI++!!;BEM+VINDO(A)+AO+MEU+GITHUB++;tmj😎🤙)](https://git.io/typing-svg)
 -----
 
 ## NESTE PERFIL:
