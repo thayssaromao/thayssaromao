@@ -31,4 +31,4 @@
 
 
 ## 👨‍💻 Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayssaromao)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayssaromao&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9)
