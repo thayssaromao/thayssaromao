@@ -6,6 +6,8 @@
 - Atualmente aluna no projeto Apple Developer Academy, capacitando meu conhecimento em desenvolvimento IOS. 🍎
 - Alumni do projeto Códigos do Amanhã - Ebanx 💙
 - Aprendiz por dois anos na Coca-Cola! ❤️
+
+### [Portfolio On Notion 👈](https://sweltering-edam-9da.notion.site/Sobre-Mim-22cacd462f818051bfb8fac7af95a913?pvs=143)
 ```
 No momento, ingressando em conceitos de Design e explorando ferramentas para aprimorar
 minha técnica voltado para desenvolvimento criativo, confira meus últimos projetos!
