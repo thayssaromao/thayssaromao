@@ -21,10 +21,12 @@
 [![Figma](https://img.shields.io/badge/Figma-f8f8f2?style=for-the-badge&logo=Figma&logoColor=#D2691E)](https://www.figma.com/@7d5effe6_cd58_4)
 
 
-## 🛠 Habilidades
+## 🛠 Tecnologias e Linguagens
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-00008B?style=for-the-badge&logo=PYTHON&logoColor=white) 
 ![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white)
+![SWIFT](https://img.shields.io/badge/SWIFT-e64135?style=for-the-badge&logo=swift&logoColor=white)
+![FIGMA](https://img.shields.io/badge/FIGMA-a225db?style=for-the-badge&logo=figma&logoColor=white)
 ![NOTION](https://img.shields.io/badge/NOTION-00000B?style=for-the-badge&logo=NOTION&logoColor=white)
 ![LIGHTROOM](https://img.shields.io/badge/adobe%20LIGHTROOM-191970?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 ![FILMORA](https://img.shields.io/badge/WONDERSHARE%20FILMORA-00BFFF?style=for-the-badge&logo=WONDERSHARE%20FILMORA&logoColor=white)
