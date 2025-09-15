@@ -22,7 +22,7 @@ minha técnica voltado para desenvolvimento criativo, confira meus últimos proj
 # 😎 Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=4F4F6F)](https://www.linkedin.com/in/thayssa-rom%C3%A3o-31a94424b/)
-[![CodeWars](https://img.shields.io/badge/CodeWars-f8f8f2?style=for-the-badge&logo=CodeWars&logoColor=6B1223)](https://https://www.codewars.com/users/thayssaromao)
+[![CodeWars](https://img.shields.io/badge/CodeWars-f8f8f2?style=for-the-badge&logo=CodeWars&logoColor=6B1223)](https://www.codewars.com/users/thayssaromao)
 [![Youtube](https://img.shields.io/badge/youtube-f8f8f2?style=for-the-badge&logo=Youtube&logoColor=FF1493)](https://www.youtube.com/channel/UClQiSpJoE2PMe_pR0WITLzg)
 [![Flickr](https://img.shields.io/badge/Flickr-f8f8f2?style=for-the-badge&logo=Flickr&logoColor=4F4F4F)](https://www.flickr.com/people/197358423@N08/)
 [![Spotify](https://img.shields.io/badge/Spotify-f8f8f2?style=for-the-badge&logo=Spotify&logoColor=#D2691E)](https://open.spotify.com/user/6b4fpv4qed2uvb45wqz9wct31?si=940d561ebe274538)
