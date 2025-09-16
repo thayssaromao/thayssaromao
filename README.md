@@ -33,6 +33,7 @@ minha técnica voltado para desenvolvimento criativo, confira meus últimos proj
 ## 🛠 Tecnologias e Linguagens
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-00008B?style=for-the-badge&logo=PYTHON&logoColor=white) 
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-FFED29?style=for-the-badge&logo=JAVASCRIPT&logoColor=black) 
 ![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=C&logoColor=white)
 ![SWIFT](https://img.shields.io/badge/SWIFT-e64135?style=for-the-badge&logo=swift&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/FIGMA-a225db?style=for-the-badge&logo=figma&logoColor=white)
