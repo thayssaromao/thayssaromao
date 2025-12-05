@@ -3,7 +3,8 @@
 
 ## Sobre Mim:
 - Estudante de Sistemas de Informação na UTFPR 🎓
-- Atualmente aluna no projeto Apple Developer Academy, capacitando meu conhecimento em desenvolvimento IOS. 🍎
+- Bolsista no projeto Apple Developer Academy, capacitando meu conhecimento em desenvolvimento IOS. 🍎
+- Bolsista no Diretoria de Gestão de Tecnologia da Informação(DIRGTI) na UTFPR. 🎓
 - Alumni do projeto Códigos do Amanhã - Ebanx 💙
 - Aprendiz por dois anos na Coca-Cola! ❤️
 
